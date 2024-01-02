@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E9213182-84EC-4601-AC27-DBC8A1404ABA"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "E37D9C9E-E947-40D5-BDE9-ADE6C84F2C8E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = ""
+            moduleName = "">
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C81A3D2-D1DA-4D2C-9447-AE959F7AE8D5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BareksaTestApp/Views/Cells/ComparationTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "ComparationTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7C81A3D2-D1DA-4D2C-9447-AE959F7AE8D5 - 9405f5268b90f512"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BareksaTestApp.ComparationTableViewCell.detailBtnTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "BareksaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeripurnamamaulid/Documents/10_Interview_Files/Test%20App/BareksaTestApp/BareksaTestApp/Views/Cells/ComparationTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "776">
+               </Location>
+               <Location
+                  uuid = "7C81A3D2-D1DA-4D2C-9447-AE959F7AE8D5 - 9405f5268b90f55c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BareksaTestApp.ComparationTableViewCell.detailBtnTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "BareksaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeripurnamamaulid/Documents/10_Interview_Files/Test%20App/BareksaTestApp/BareksaTestApp/Views/Cells/ComparationTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "7C81A3D2-D1DA-4D2C-9447-AE959F7AE8D5 - dd4e745eef8be55a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BareksaTestApp.ComparationTableViewCell.detailTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "BareksaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeripurnamamaulid/Documents/10_Interview_Files/Test%20App/BareksaTestApp/BareksaTestApp/Views/Cells/ComparationTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E968CF6-8BA4-47E2-9373-39A4797A9AF1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BareksaTestApp/ViewModels/MainViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "fetchProductData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D045C31-8587-48CC-A8F1-313E62F1DD08"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BareksaTestApp/ViewModels/MainViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "configuredDataChart(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B20CE0A8-C802-4DF4-AE3B-F8E79650418B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BareksaTestApp/ViewModels/MainViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "configureLineChartDataSet(entries:label:color:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B20CE0A8-C802-4DF4-AE3B-F8E79650418B - 3065d0a5c2a1f45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BareksaTestApp.MainViewModel.configureLineChartDataSet(entries: Swift.Array&lt;DGCharts.ChartDataEntry&gt;, label: Swift.String, color: __C.UIColor) -&gt; DGCharts.LineChartDataSet"
+                  moduleName = "BareksaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeripurnamamaulid/Documents/10_Interview_Files/Test%20App/BareksaTestApp/BareksaTestApp/ViewModels/MainViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "B20CE0A8-C802-4DF4-AE3B-F8E79650418B - 3065d0a5c2a1f45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BareksaTestApp.MainViewModel.configureLineChartDataSet(entries: Swift.Array&lt;DGCharts.ChartDataEntry&gt;, label: Swift.String, color: __C.UIColor) -&gt; DGCharts.LineChartDataSet"
+                  moduleName = "BareksaTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeripurnamamaulid/Documents/10_Interview_Files/Test%20App/BareksaTestApp/BareksaTestApp/ViewModels/MainViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.6.4)
+  - DGCharts (5.0.0):
+    - DGCharts/Core (= 5.0.0)
+  - DGCharts/Core (5.0.0)
+  - SDWebImage (5.18.8):
+    - SDWebImage/Core (= 5.18.8)
+  - SDWebImage/Core (5.18.8)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.6.1)
+  - DGCharts
+  - SDWebImage
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DGCharts
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  DGCharts: 6e0cf2644e8f81ad13f04caa8bc18502870a1c54
+  SDWebImage: a81bbb3ba4ea5f810f4069c68727cb118467a04a
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 9b0724ae4351976adb82c88cb7979b68d28b1e1d
+
+COCOAPODS: 1.14.3
